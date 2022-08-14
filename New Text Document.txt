@@ -1,0 +1,21 @@
+Gym Website
+In my project I want to create a gym website
+
+Features.
+1. firstly the home page opens which give details about the webpage and  in navbar i 
+will have various options.
+2. In navabar a user can click on BMI and can check his Body mass index by entering his 
+weight and height.
+
+3.user can signup create a profile on gym website and can get a free trial and discounted
+membership of gym.
+
+4. users can see the other members of the gym only name and photo of other members 
+will be displayed.
+
+5 by clicking on diet plans on navbar user can get the diet plan for different type of goals eg bulking,cutting,keto diet.
+
+6 user can checkout different gym exercise which he/she can do to achieve fitness goals.
+
+
+
